@@ -13,7 +13,7 @@ This project covers the complete analytics pipeline:
 
 ---
 
-## 📌 Project Objective
+## 📌 Project Objective 
 
 To understand:
 - How customers behave across product categories  
