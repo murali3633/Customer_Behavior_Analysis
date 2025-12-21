@@ -9,7 +9,7 @@ This project covers the complete analytics pipeline:
 - Data cleaning and preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Business analysis using SQL 
-- Interactive dashboard creation in Power BI  
+- Interactive dashboard creation in Power BI 
 
 ---
 
