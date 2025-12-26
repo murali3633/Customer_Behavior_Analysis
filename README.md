@@ -16,7 +16,7 @@ This project covers the complete analytics pipeline:
 ## 📌 Project Objective  
 
 To understand:
-- How customers behave across product categories  
+- How customers behave across product categories   
 - The impact of discounts and subscriptions on revenue  
 - Spending patterns across age groups and gender  
 - The role of shipping methods in customer spending  
