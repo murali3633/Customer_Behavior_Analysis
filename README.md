@@ -7,7 +7,7 @@ An end-to-end **Data Analytics Project** focused on analyzing real-world custome
 
 This project covers the complete analytics pipeline:   
 - Data cleaning and preprocessing  
-- Exploratory Data Analysis (EDA)   
+- Exploratory Data Analysis (EDA)    
 - Business analysis using SQL 
 - Interactive dashboard creation in Power BI 
  
