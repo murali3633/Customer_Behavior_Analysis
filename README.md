@@ -6,7 +6,7 @@
 An end-to-end **Data Analytics Project** focused on analyzing real-world customer shopping behavior using **Python, SQL, and Power BI**.
 
 This project covers the complete analytics pipeline:    
-- Data cleaning and preprocessing  
+- Data cleaning and preprocessing   
 - Exploratory Data Analysis (EDA)    
 - Business analysis using SQL  
 - Interactive dashboard creation in Power BI  
